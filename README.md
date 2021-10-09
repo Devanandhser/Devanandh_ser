@@ -11,7 +11,7 @@
 <img src="https://i.imgur.com/6CqMv7z.jpg" alt="GIF" width="300" height="250"/>
 </p>
   <p align="center">
-<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Amal-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Devanandhser/Devanandh_ser"><img title="Author" src="https://img.shields.io/badge/Author-Devanandh-dkser/DEVANANDH?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -41,7 +41,7 @@ https://youtu.be/fd0KPblop-k
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/cyberchekuthan/Amalser_v2
+$ git clone https://github.com/Devanandhser/Devanandh_ser
 $ cd Amalser_v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -50,7 +50,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/cyberchekuthan/Amalser_v2
+$ git clone https://github.com/Devanandhser/Devanandh_ser
 $ cd Amalser_v2
 $ npm i
 $ node julie.js
