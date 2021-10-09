@@ -15,7 +15,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/Devanandhser/Devanandh_ser">Devanandh</a> to make it public
     <br>
        | © |
         Reserved |
